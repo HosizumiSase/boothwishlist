@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>My Booth Wishlist</title>
+    <meta name="description" content="VRChat用アバターや衣装のウィッシュリストです。">
+
+    <meta property="og:title" content="My Booth Wishlist">
+    <meta property="og:description" content="ギフトお待ちしています！🎁">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://あなたのGithubID.github.io/リポジトリ名/">
+    <meta property="og:image" content="https://placehold.jp/1200x630.png?text=WishList"> 
+    <meta name="twitter:card" content="summary_large_image">
+    <style>
+        /* 画面いっぱいに広げる設定 */
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden; /* 二重スクロール防止 */
+            background-color: #f8f9fa;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://script.google.com/macros/s/AKfycbzcxqmDsx8GFWQHrY7Z45TCLh1CYJZiorlq9zi0xKUzvr5RmPgqZyddHUaPVr8J4VwH/exec">
+        読み込み中...
+    </iframe>
+</body>
+</html>
